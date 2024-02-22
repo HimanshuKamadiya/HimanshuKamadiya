@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Himanshu Kamadiya</h1>
-<h3 align="center">Hello World,
+<h1 align="center">Hello World👋, I'm Himanshu Kamadiya</h1>
+<h3 align="center">
 I am a Python Full Stack Developer, having a good understanding in the domain of core python dev, web dev with the framework like django, flask, pyramid, etc for backend, and CSS frame-work like Bootstrap, tailwind and javascript frame-work like react for front-end, GUI with python using tkinter and pyqt5. Also have a strong experience in the domain of MIS systems and Chat bots.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshukamadiya&label=Profile%20views&color=0e75b6&style=flat" alt="himanshukamadiya" /> </p>
